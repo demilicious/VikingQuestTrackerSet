@@ -1,6 +1,6 @@
 [submodule "VikingQuestTracker"]
 	path = VikingQuestTracker
-	url = git@github.com:vikinghug/VikingQuestTracker.git
+	url = https://github.com/vikinghug/VikingQuestTracker
 [submodule "VikingDatachron"]
 	path = VikingDatachron
-	url = git@github.com:vikinghug/VikingDatachron.git
+	url = https://github.com/vikinghug/VikingDatachron
